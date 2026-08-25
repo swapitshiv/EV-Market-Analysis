@@ -2,7 +2,8 @@
 
 An end-to-end analytics project analyzing 3.59 million EV sales in India between 2018 and 2023. Data modeled in PostgreSQL using a star schema and visualized via Metabase.
 
-![Dashboard Preview](assets/dashboard.png)
+<img width="1920" height="1475" alt="localhost_20260825_181044" src="https://github.com/user-attachments/assets/05671ac4-2d40-4b7d-bd37-0feeb2304cdb" />
+
 
 ## Overview
 
